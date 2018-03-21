@@ -1,0 +1,2 @@
+webpackJsonp([0x834755aae49e],{504:function(e,a){e.exports={data:{site:{siteMetadata:{title:"blog",author:""}},markdownRemark:{id:"/Users/darin.im/workspace/darinim.github.io/src/pages/hello-world/index.md absPath of file >>> MarkdownRemark",html:"",frontmatter:{title:"hello world",date:"March 20, 2018"}}},pathContext:{slug:"/hello-world/",previous:!1,next:!1}}}});
+//# sourceMappingURL=path---hello-world-fc4955df94323b30703b.js.map
